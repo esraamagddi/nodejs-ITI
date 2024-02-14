@@ -1,0 +1,13 @@
+doctype html
+html(lang="en")
+    head
+
+        meta(charset="UTF-8")
+        link(rel="stylesheet", href="/css/style.css") 
+        title Todo List
+    body
+        h1 Todo List
+        ul
+            each todo in todos
+                li= todo.text
+        img(src="/imgs/balloon.webp", alt="")

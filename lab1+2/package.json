@@ -1,0 +1,17 @@
+{
+  "name": "nodeday2",
+  "version": "1.0.0",
+  "description": "lab2",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon conn/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "esraa",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^8.56.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "nodemon": "^3.0.3"
+  }
+}

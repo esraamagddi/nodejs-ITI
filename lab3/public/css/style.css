@@ -1,0 +1,15 @@
+img {
+    width: 500px;
+    height: auto;
+    border-radius: 5px;
+}
+li {
+    margin-bottom: 10px; 
+    background-color: #bd9f9f; 
+    padding: 10px; 
+    border-radius: 5px; 
+}
+
+h1{
+    text-align: center;    
+}
